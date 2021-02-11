@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="607" height="493" viewBox="0 0 607 493">
+  <defs>
+    <filter id="Ellipse_1732" x="0" y="0" width="158" height="158" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1735" x="0" y="335" width="158" height="158" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1733" x="449" y="0" width="158" height="158" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1734" x="449" y="335" width="158" height="158" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_41766" x="44" y="203" width="69.985" height="70.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_41767" x="268" y="386" width="69.965" height="55.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_41768" x="498.7" y="207" width="55.866" height="63.814" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_41769" x="275" y="47" width="56.097" height="64.4" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_25054" data-name="Group 25054" transform="translate(-392 -650)">
+    <rect id="Rectangle_4958" data-name="Rectangle 4958" width="73" height="355" transform="translate(435 708)" fill="#eae699"/>
+    <rect id="Rectangle_4959" data-name="Rectangle 4959" width="73" height="355" transform="translate(884 708)" fill="#db311c"/>
+    <rect id="Rectangle_4960" data-name="Rectangle 4960" width="73" height="483" transform="translate(933 690) rotate(90)" fill="#92934e"/>
+    <rect id="Rectangle_4961" data-name="Rectangle 4961" width="73" height="483" transform="translate(933 1025) rotate(90)" fill="#ed8730"/>
+    <g transform="matrix(1, 0, 0, 1, 392, 650)" filter="url(#Ellipse_1732)">
+      <circle id="Ellipse_1732-2" data-name="Ellipse 1732" cx="70" cy="70" r="70" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 392, 650)" filter="url(#Ellipse_1735)">
+      <circle id="Ellipse_1735-2" data-name="Ellipse 1735" cx="70" cy="70" r="70" transform="translate(9 341)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 392, 650)" filter="url(#Ellipse_1733)">
+      <circle id="Ellipse_1733-2" data-name="Ellipse 1733" cx="70" cy="70" r="70" transform="translate(458 6)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 392, 650)" filter="url(#Ellipse_1734)">
+      <circle id="Ellipse_1734-2" data-name="Ellipse 1734" cx="70" cy="70" r="70" transform="translate(458 341)" fill="#fff"/>
+    </g>
+    <text id="Ante_la_imposibilidad_de_acceso_y_registro_en_la_herramienta_tecnológica_el_profesional_de_la_salud_deberá_realizar_la_prescripción_mediante_el_formulario_de_contingencia_establecido_por_el_Ministerio_cuando_se_presenten_las_siguientes_circunstancias:" data-name="Ante la imposibilidad de acceso y registro en la herramienta tecnológica, el profesional de la salud deberá realizar la prescripción mediante el formulario de contingencia establecido por el Ministerio, cuando se presenten las siguientes circunstancias:" transform="translate(533 820.5)" fill="#00223d" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Ante la imposibilidad de acceso y registro en </tspan><tspan x="0" y="41">la herramienta tecnológica, el profesional de </tspan><tspan x="0" y="65">la salud deberá realizar la prescripción </tspan><tspan x="0" y="89">mediante el formulario de contingencia </tspan><tspan x="0" y="113">establecido por el Ministerio, cuando se </tspan><tspan x="0" y="137">presenten las siguientes circunstancias:</tspan></text>
+    <text id="Ausencia_de_servicio_eléctrico" data-name="Ausencia de servicio eléctrico" transform="translate(873 701.5)" fill="#444" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="5.758" y="16">Ausencia de </tspan><tspan x="20.845" y="34">servicio </tspan><tspan x="17.905" y="52">eléctrico</tspan></text>
+    <text id="Inconsistencias_de_afiliación_o_identificación" data-name="Inconsistencias de afiliación o identificación" transform="translate(857 1037)" fill="#444" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0.312" y="16">Inconsistencias de </tspan><tspan x="25.156" y="34">afiliación o </tspan><tspan x="16.089" y="52">identificación</tspan></text>
+    <text id="Dificultades_técnicas" data-name="Dificultades técnicas" transform="translate(423 712.5)" fill="#444" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="6.109" y="16">Dificultades </tspan><tspan x="19.849" y="34">técnicas</tspan></text>
+    <text id="Falta_de_conectividad" data-name="Falta de conectividad" transform="translate(423 1043)" fill="#444" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="20.432" y="16">Falta de </tspan><tspan x="3.051" y="34">conectividad</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 392, 650)" filter="url(#Path_41766)">
+      <path id="Path_41766-2" data-name="Path 41766" d="M224.127,220.787a7.261,7.261,0,0,1-7.077,7.12,7.12,7.12,0,0,1,0-14.24A7.261,7.261,0,0,1,224.127,220.787Zm18.658-3.56v7.12l-3.517,1.029a21.843,21.843,0,0,0-3.56,3.045v.515a4.052,4.052,0,0,0,.515,4.075l1.5,3.56-5.018,5.1-3.56-1.5a3.733,3.733,0,0,0-4.547,0,5.774,5.774,0,0,0-3,3.045l-1.029,3.56h-7.034l-1.544-3.56a4.461,4.461,0,0,0-3-3.045,3.733,3.733,0,0,0-4.547,0l-3.56,1.5-5.018-5.1,2.016-3.56a7.013,7.013,0,0,0,0-4.589,8.868,8.868,0,0,0-3.045-3.045l-4.032-1.029v-7.12l4.032-1.544a4.693,4.693,0,0,0,3.045-3.045,5.524,5.524,0,0,0,0-4.075l-2.016-4.075,5.018-4.589,3.56,1.5a6.886,6.886,0,0,0,4.547,0,4.544,4.544,0,0,0,3-3.045l1.544-4.075h7.034l1.029,4.075a5.93,5.93,0,0,0,3,3.045,6.886,6.886,0,0,0,4.547,0l3.56-1.5,5.018,4.589-1.5,4.075c-1.029,1.029-1.029,2.531-.515,4.075a6.941,6.941,0,0,0,3.56,3.045Zm-13.64,3.56a12.117,12.117,0,1,0-12.1,12.224A12.3,12.3,0,0,0,229.145,220.787Z" transform="translate(-137.8 14.72)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 392, 650)" filter="url(#Path_41767)">
+      <path id="Path_41767-2" data-name="Path 41767" d="M640.119,195.43a12.551,12.551,0,0,1,8.571-3.08,11.3,11.3,0,0,1,8.036,3.08l-8.036,8.75Zm-3.572-3.571a16.665,16.665,0,0,1,12.143-5.134,16.371,16.371,0,0,1,11.607,5.134l5.045-5.134a21.85,21.85,0,0,0-16.652-7.188,22.95,22.95,0,0,0-17.187,7.188Zm-9.062-9.241a31.752,31.752,0,0,1,21.205-8.75c8.036,0,15.134,3.616,20.67,8.75l5.045-5.134a35.8,35.8,0,0,0-25.715-10.8,37.048,37.048,0,0,0-26.25,10.8Z" transform="translate(-345.44 225.32)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 392, 650)" filter="url(#Path_41768)">
+      <path id="Path_41768-2" data-name="Path 41768" d="M444.306,88.742v39.152H406.44V88.742h8.609l-4.324,4.441v30.27h29.3V93.183L435.7,88.742Zm-27.971,28.049h18.076v-3.117H416.335Zm0-5.8h18.076v-3.545H416.335Zm18.076-9.778H416.335v3.545h18.076Zm-3.428-12.466v-.9a5.612,5.612,0,1,0-11.22,0v.9l-6,6.233h23.219Zm-5.61.9a1.887,1.887,0,0,1-1.714-1.792,1.772,1.772,0,1,1,3.428,0A1.887,1.887,0,0,1,425.373,89.638Z" transform="translate(101.26 130.92)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 392, 650)" filter="url(#Path_41769)">
+      <path id="Path_41769-2" data-name="Path 41769" d="M634.257,226.717,598.846,252.4l-2.686-4.07,6.716-4.925a17.146,17.146,0,0,1-3.134-9.484c0-9,7.164-13.961,14.327-13.961,4.966,0,9.891,2.686,12.129,6.757l5.373-3.623ZM618.587,259.6h-9.443a1.343,1.343,0,0,0,0,2.686h9.443a1.343,1.343,0,1,0,0-2.686Zm-5.861,6.757h2.239c.936,0,.936-.448,3.622-2.686h-9.443C611.831,265.913,611.831,266.36,612.726,266.36Zm6.309-10.827h-9.891c-.9,0-1.343.448-1.343,1.384a1.429,1.429,0,0,0,1.343,1.343h9.891c.448,0,.9-.9.9-1.343C619.93,255.981,619.483,255.534,619.035,255.534Zm-11.682-1.791h13.472c0-6.309,6.716-10.827,7.164-18.479l-21.084,15.345C606.905,251.5,607.353,252.847,607.353,253.743Z" transform="translate(-312.16 -166.96)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

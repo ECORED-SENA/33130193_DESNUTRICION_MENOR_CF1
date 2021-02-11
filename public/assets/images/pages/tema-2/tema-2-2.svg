@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="850.989" height="1182.519" viewBox="0 0 850.989 1182.519">
+  <defs>
+    <filter id="Path_41804" x="685.071" y="16.332" width="40.902" height="98.78" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_41805" x="13.651" y="371.882" width="75.108" height="100.793" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_41806" x="701.204" y="560.781" width="61.437" height="100.793" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_41807" x="56.125" y="761.058" width="77.357" height="98.78" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_41808" x="770.611" y="834.069" width="66.527" height="100.793" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_25055" data-name="Group 25055" transform="translate(-275 -1499.133)">
+    <g id="Group_17903" data-name="Group 17903">
+      <g id="Group_17902" data-name="Group 17902" transform="translate(-1285.358 1443.355)">
+        <g id="Group_17896" data-name="Group 17896" transform="translate(1601.388 608.357)" style="mix-blend-mode: multiply;isolation: isolate">
+          <path id="Path_41799" data-name="Path 41799" d="M1673.3,707.543l263.163-7.973c29.752-.957,54.677,21.4,55.978,50.217l20.143,185.291c1.384,30.647-22,57.189-53.469,60.683l-290.991,32.317c-32.393,3.6-60.55-21.183-59.955-52.766l3.912-207.548C1612.695,735.141,1639.65,708.625,1673.3,707.543Z" transform="translate(-1608.158 -699.541)" fill="#ed8730" style="mix-blend-mode: multiply;isolation: isolate"/>
+        </g>
+        <path id="Path_41800" data-name="Path 41800" d="M2362.7,795.207l-301.883-15.6a33.847,33.847,0,0,1-35.605-35.373L2010.145,531.32c0-36.884,25.5-55.553,65.7-52.821l307.2,10.417a30.964,30.964,0,0,1,30.965,30.964L2402.627,753.1A42.162,42.162,0,0,1,2362.7,795.207Z" transform="translate(-63.709 -59.838)" fill="#eae699" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <path id="Path_41801" data-name="Path 41801" d="M1642.828,292.1l271.837-7.287a53.165,53.165,0,0,1,55.7,50.569l8.857,185.727a55.949,55.949,0,0,1-53.6,58.567L1611.6,574.407a49.22,49.22,0,0,1-50.992-54.055l20.957-170A64.744,64.744,0,0,1,1642.828,292.1Z" transform="translate(0 -32.432)" fill="#92934e" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <path id="Path_41802" data-name="Path 41802" d="M2005.953,58.245l345.338-2.466a26.482,26.482,0,0,1,26.645,27.676l-25.572,267.92a26.594,26.594,0,0,1-28.524,25.323L2009.97,352.536a33.706,33.706,0,0,1-31.217-32.837L1973.489,91.7A32.706,32.706,0,0,1,2005.953,58.245Z" transform="translate(-58.516)" fill="#415214" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <path id="Path_41803" data-name="Path 41803" d="M1944.149,1028.175a30.993,30.993,0,0,1,30.764-31.708H2440.43a25.1,25.1,0,0,1,25.25,26.227l-44.738,324.776a25.2,25.2,0,0,1-27.032,24l-395-26a31.941,31.941,0,0,1-29.582-31.118Z" transform="translate(-54.36 -133.241)" fill="#db311c" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <g id="Group_17897" data-name="Group 17897" transform="translate(2254.429 78.11)">
+          <g transform="matrix(1, 0, 0, 1, -694.07, -22.33)" filter="url(#Path_41804)">
+            <path id="Path_41804-2" data-name="Path 41804" d="M2391.863,81.795v80.78h-22.9V81.795Z" transform="translate(-1674.89 -59.46)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_17898" data-name="Group 17898" transform="translate(1583.009 433.661)">
+          <g transform="matrix(1, 0, 0, 1, -22.65, -377.88)" filter="url(#Path_41805)">
+            <path id="Path_41805-2" data-name="Path 41805" d="M1635.7,555.433V578.81h-52.2l25.921-48.646.888-1.658a7.994,7.994,0,0,0,1.065-3.846q0-4.794-5.622-4.794a5.56,5.56,0,0,0-5.445,5.445,6.071,6.071,0,0,0,2.13,4.5l-10.356,18.464a28.2,28.2,0,0,1-10-10.238,28.5,28.5,0,0,1,4.735-33.7,28.074,28.074,0,0,1,39.8-.088,27.279,27.279,0,0,1,8.2,20,26.779,26.779,0,0,1-3.018,12.547l-9.587,18.641Z" transform="translate(-1555.94 -118.13)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_17899" data-name="Group 17899" transform="translate(2270.562 622.56)">
+          <g transform="matrix(1, 0, 0, 1, -710.2, -566.78)" filter="url(#Path_41806)">
+            <path id="Path_41806-2" data-name="Path 41806" d="M2388.052,716.087h42.787l-13.2,31.069a32.12,32.12,0,0,1,10.327,10.5,27.058,27.058,0,0,1,3.225,13.523,25.882,25.882,0,0,1-8.581,19.677q-8.581,8.02-21.127,8.02a38.161,38.161,0,0,1-13.729-2.6V773.432q5.149,3.2,8.937,3.2a9.207,9.207,0,0,0,6.954-2.959,10.246,10.246,0,0,0,2.81-7.338,9.361,9.361,0,0,0-4.2-8.019q-4.2-2.988-11.244-2.989l5.977-15.92h-8.936Z" transform="translate(-1677.55 -149.31)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_17900" data-name="Group 17900" transform="translate(1625.483 822.836)">
+          <g transform="matrix(1, 0, 0, 1, -65.13, -767.06)" filter="url(#Path_41807)">
+            <path id="Path_41807-2" data-name="Path 41807" d="M1695.587,949.412v80.78h-22.725V968.528l-10.061,20h4.972v17.577H1636.23l23.909-56.694Z" transform="translate(-1571.1 -182.35)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_17901" data-name="Group 17901" transform="translate(2339.969 895.847)">
+          <g transform="matrix(1, 0, 0, 1, -779.61, -840.07)" filter="url(#Path_41808)">
+            <path id="Path_41808-2" data-name="Path 41808" d="M2514.835,1034.471v23.2H2494.95l-1.064,3.669q10.887,3.138,16.1,9.054a28.041,28.041,0,0,1,7.16,19.292,25.4,25.4,0,0,1-8.729,19.737q-8.731,7.841-21.985,7.841a36.891,36.891,0,0,1-17.636-4.675V1092.7q6.923,3.372,12.19,3.373,5.445,0,8.611-2.485a8.125,8.125,0,0,0,3.166-6.747q0-4.794-4.883-8.107a20.947,20.947,0,0,0-12.042-3.314,34.865,34.865,0,0,0-7.22,1.005l8.7-41.958Z" transform="translate(-1689.01 -194.4)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <text id="Estarán_conformadas_por_al_menos_tres_3_profesionales_de_la_salud_que_se_encuentren_inscritos_en_el_ReTHUS_y_al_menos_uno_1_de_sus_miembros_deberá_ser_profesional_par_del_profesional_de_la_salud_prescriptor_u_ordenador." data-name="Estarán conformadas por al menos tres (3) profesionales de la salud que se encuentren inscritos en el ReTHUS y al menos uno (1) de sus miembros deberá ser profesional par del profesional de la salud prescriptor u ordenador." transform="translate(705 1591.5)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Estarán conformadas por al menos </tspan><tspan x="0" y="37">tres (3) profesionales de la salud que </tspan><tspan x="0" y="57">se encuentren inscritos en el ReTHUS </tspan><tspan x="0" y="77">y al menos uno (1) de sus miembros </tspan><tspan x="0" y="97">deberá ser profesional par del </tspan><tspan x="0" y="117">profesional de la salud prescriptor u </tspan><tspan x="0" y="137">ordenador.</tspan></text>
+      <text id="Tendrá_un_secretario_técnico_que_será_el_responsable_de_diligenciar_las_decisiones_en_la_herramienta_tecnológica_de_que_trata_la_presente_resolución_en_el_módulo_dispuesto_para_ello._El_secretario_técnico_podrá_ser_un_profesional_de_la_salud_de_enfermería_" data-name="Tendrá un secretario técnico que será el responsable de diligenciar las decisiones en la herramienta tecnológica de que trata la presente resolución en el módulo dispuesto para ello. El secretario técnico podrá ser un profesional de la salud de enfermería " transform="translate(373 1751.5)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Tendrá un secretario técnico que será </tspan><tspan x="0" y="37">el responsable de diligenciar las </tspan><tspan x="0" y="57">decisiones en la herramienta </tspan><tspan x="0" y="77">tecnológica de que trata la presente </tspan><tspan x="0" y="97">resolución en el módulo dispuesto </tspan><tspan x="0" y="117">para ello. El secretario técnico podrá </tspan><tspan x="0" y="137">ser un profesional de la salud de </tspan><tspan x="0" y="157">enfermería o química farmacéutica, </tspan><tspan x="0" y="177">registrado en ReTHUS.</tspan></text>
+      <text id="Las_juntas_de_profesionales_de_la_salud_deberán_conformarse_con_la_disponibilidad_de_personal_que_exista_en_las_IPS_garantizando_en_cualquier_caso_la_realización_oportuna_de_estas._En_todo_caso_el_profesional_de_la_salud_prescriptor_no_podrá_ser_integran" data-name="Las juntas de profesionales de la salud deberán conformarse con la disponibilidad de personal que exista en las IPS garantizando, en cualquier caso, la realización oportuna de estas. En todo caso el profesional de la salud prescriptor no podrá ser integran" transform="translate(750 1921.5)" fill="#00223d" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Las juntas de profesionales de la </tspan><tspan x="0" y="37">salud deberán conformarse con la </tspan><tspan x="0" y="57">disponibilidad de personal que </tspan><tspan x="0" y="77">exista en las IPS garantizando, en </tspan><tspan x="0" y="97">cualquier caso, la realización </tspan><tspan x="0" y="117">oportuna de estas. En todo caso el </tspan><tspan x="0" y="137">profesional de la salud prescriptor </tspan><tspan x="0" y="157">no podrá ser integrante de la </tspan><tspan x="0" y="177">Junta.</tspan></text>
+      <text id="La_reunión_de_la_junta_de_profesionales_de_la_salud_podrá_realizarse_en_forma_presencial_o_virtual_a_través_de_medios_electrónicos_informáticos_telefónicos_audiovisuales_o_cualquier_otro_medio_que_permita_el_intercambio_de_información_entre_los_miembros" data-name="La reunión de la junta de profesionales de la salud podrá realizarse en forma presencial o virtual a través de medios electrónicos, informáticos, telefónicos, audiovisuales o cualquier otro medio que permita el intercambio de información entre los miembros" transform="translate(417 2099.5)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">La reunión de la junta de profesionales </tspan><tspan x="0" y="37">de la salud podrá realizarse en forma </tspan><tspan x="0" y="57">presencial o virtual a través de medios </tspan><tspan x="0" y="77">electrónicos, informáticos, telefónicos, </tspan><tspan x="0" y="97">audiovisuales o cualquier otro medio </tspan><tspan x="0" y="117">que permita el intercambio de </tspan><tspan x="0" y="137">información entre los miembros de la </tspan><tspan x="0" y="157">junta de profesionales de la salud, </tspan><tspan x="0" y="177">coordinados por la secretaría técnica.</tspan></text>
+      <text id="La_Institución_Prestadora_de_Servicios_de_Salud_IPS_deberá_garantizar_la_decisión_de_la_junta_en_los_términos_establecidos_en_la_resolución." data-name="La Institución Prestadora de Servicios de Salud (IPS) deberá garantizar la decisión de la junta, en los términos establecidos en la resolución." transform="translate(649 2337.5)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">La Institución Prestadora de Servicios de Salud (IPS) </tspan><tspan x="0" y="37">deberá garantizar la decisión de la junta, en los </tspan><tspan x="0" y="57" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="underline">términos </tspan><tspan y="57">establecidos en la resolución.</tspan></text>
+      <text id="Si_la_prescripción_se_genera_como_ambulatoria_priorizada_urgencias_o_en_internación_institucional_o_domiciliaria_deberá_pronunciarse_en_un_término_no_mayor_a_setenta_y_dos_72_horas_siguientes_a_la_solicitud_del_profesional_de_la_salud._Si_la_prescripc" data-name="Si la prescripción se genera como ambulatoria priorizada, urgencias o en internación institucional o domiciliaria, deberá pronunciarse en un término no mayor a setenta y dos (72) horas siguientes a la solicitud del profesional de la salud.
+
+Si la prescripc" transform="translate(692 2412.5)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Si la prescripción se genera como ambulatoria </tspan><tspan x="0" y="37">priorizada, urgencias o en internación institucional </tspan><tspan x="0" y="57">o domiciliaria, deberá pronunciarse en un término </tspan><tspan x="0" y="77">no mayor a setenta y dos (72) horas siguientes a la </tspan><tspan x="0" y="97">solicitud del profesional de la salud.</tspan><tspan x="0" y="117"></tspan><tspan x="0" y="137">Si la prescripción se genera como ambulatoria no </tspan><tspan x="0" y="157">priorizada, deberá pronunciarse dentro de los cinco </tspan><tspan x="0" y="177">(5) días calendario siguiente a la solicitud del </tspan><tspan x="0" y="197">profesional de salud.</tspan></text>
+      <circle id="Ellipse_1736" data-name="Ellipse 1736" cx="3" cy="3" r="3" transform="translate(681 2421)" fill="#fff"/>
+      <circle id="Ellipse_1737" data-name="Ellipse 1737" cx="3" cy="3" r="3" transform="translate(681 2561)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
