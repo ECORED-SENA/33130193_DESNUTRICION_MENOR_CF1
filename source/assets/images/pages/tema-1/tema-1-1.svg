@@ -915,7 +915,9 @@ Prescripción de tecnologías en salud no financiadas con recursos de la UPC, he
     </text>
     <text id="Resolución_2465_de_2016" data-name="Resolución 2465 de 2016" transform="translate(433 963.5)" fill="#415214" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-38.17" y="16">Resolución </tspan><tspan x="-47.351" y="34">2465 de 2016</tspan></text>
     <text id="Resoluciones_1885_y_2438_de_2018" data-name="Resoluciones 1885 y 2438 de 2018" transform="translate(514 1153.5)" fill="#db311c" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-45.531" y="16">Resoluciones </tspan><tspan x="-42.686" y="34">1885 y 2438 </tspan><tspan x="-28.026" y="52">de 2018</tspan></text>
-    <text id="Resolución_1343_de_2019" data-name="Resolución 1343 de 2019" transform="translate(701 1239.5)" fill="#ed8730" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-38.17" y="16">Resolución </tspan><tspan x="-47.351" y="34">1343 de 2019</tspan></text>
+    <text id="Resolución_1343_de_2019" data-name="Resolución 1343 de 2019" transform="translate(701 1239.5)" fill="#ed8730" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700">
+    <tspan x="-30.17" y="16">Resolución </tspan>
+    <tspan x="-40.351" y="34">1343 de 2019</tspan></text>
     <text id="Lineamiento_" data-name="Lineamiento " transform="translate(905 1171.5)" fill="#989857" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-43.667" y="16">Lineamiento </tspan></text>
     <text id="Protocolo_" data-name="Protocolo " transform="translate(986 972.5)" fill="#949161" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-34.523" y="16">Protocolo </tspan></text>
     <g id="Group_16007" data-name="Group 16007" transform="translate(84.898 364.854)">
