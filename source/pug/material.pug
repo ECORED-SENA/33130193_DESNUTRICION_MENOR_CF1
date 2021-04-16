@@ -34,7 +34,7 @@ html(lang="es")
                         .card.wow.flipInX(data-wow-delay=".4s")
                             .card-body
                                 ul.list-group.list-group-flush.list.my-n3.nav-temas
-                                    +navTemaItem('1', 'Política Nacional en Seguridad Alimentaria y Nutricional (SAN)', 'main.html#page/tema-1/')
+                                    +navTemaItem('1', 'Normas, lineamiento y protocolo relacionados con el manejo integrado de la desnutrición aguda', '#tema-1')
                                     +navTemaItem('glosario', 'Glosario', '#glosario')
                                     +navTemaItem('complementario', 'Material complementario', '#anexos')
                                     +navTemaItem('referencias', 'Referencias bibliográficas', '#referencias')
@@ -43,15 +43,7 @@ html(lang="es")
         section#mainContent         
 
             #tema-1
-                include pages/tema-1.pug
-            #tema-2
-                include pages/tema-2.pug
-            #tema-3
-                include pages/tema-3.pug
-            #tema-4
-                include pages/tema-4.pug
-            #tema-5
-                include pages/tema-5.pug                             
+                include pages/tema-1.pug                          
             #glosario
                 include pages/glosario.pug
             #anexos
