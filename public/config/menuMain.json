@@ -9,7 +9,7 @@
     "id": 0,
     "icon": "fa fa-play-circle",
     "slug": "tema-1",
-    "title": "1. Toma de medidas antropométricas",
+    "title": "1. Política Nacional en Seguridad Alimentaria y Nutricional (SAN)",
     "breadcrumb": ["Inicio","tema 1"],
     "path": "pages/tema-1.html",
     "submenu": [
@@ -34,7 +34,7 @@
       {
         "icon": "fa fa-file-text-o",
         "slug": "tema-4",
-        "title": "1.4. Lineamiento para el manejo integrado de la desnutrición aguda moderada y severa ",
+        "title": "1.4. Lineamiento para el manejo integral de atención a la desnutrición aguda moderada y severa en niños de cero (0) a 59 meses de edad",
         "path": "pages/tema-4.html"
       },
       {
